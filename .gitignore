@@ -32,3 +32,6 @@
 *.app
 /.vs/os-lab/v16
 /.vs
+/lab-1/.vs/lab-1-Korniienko/v16/ipch/AutoPCH
+/lab-1/.vs/lab-1-Korniienko/v16/.suo
+/lab-1/.vs/lab-1-Korniienko/v16/Browse.VC.db

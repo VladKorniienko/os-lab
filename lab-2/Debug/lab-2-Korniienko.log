@@ -1,0 +1,5 @@
+﻿  allocator.cpp
+C:\Users\yyyy\source\repos\lab-2-Korniienko\allocator.cpp(41,21): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  main.cpp
+  Generating Code...
+  lab-2-Korniienko.vcxproj -> C:\Users\yyyy\source\repos\lab-2-Korniienko\Debug\lab-2-Korniienko.exe
